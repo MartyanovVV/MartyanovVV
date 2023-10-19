@@ -6,12 +6,12 @@
 
 ## 💻 Stack:
 
-- Python (Machine Learning and Data Analysis, Django)
+- Python (Machine Learning and Data Analysis)
 - C++ 
 - C# (Windows Forms)
 - SQL (PostgreSQL, SQLite)
-- Java (Android)
 - Haskell
+- Excel
 
 ## 📈 Languages Stats
 
