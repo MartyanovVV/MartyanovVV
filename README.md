@@ -18,6 +18,11 @@ FrontEnd:
 ### @ViktorDiktorGandgubas ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ### https://leetcode.com/Martyanov/ ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MartyanovVV&count_private=true&show_icons=true&theme=buefy" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyanovVV&layout=compact&theme=buefy" />
 </p>
