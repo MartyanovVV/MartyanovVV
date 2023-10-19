@@ -1,8 +1,10 @@
 ### Hello everyone, my name is Viktor Martyanov. I am a student of MIPT and PSU student in Applied Mathematics and Information Science.
 ### 📍 I'm from Perm, Russia
 
-### @ViktorDiktorGandgubas ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ### https://leetcode.com/Martyanov/ ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+<a href="https://t.me/ViktorDiktorGandgubas"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.kaggle.com/viktormartyanov"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 ## 💻 Stack:
 
