@@ -18,16 +18,6 @@ FrontEnd:
 ### @ViktorDiktorGandgubas ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ### https://leetcode.com/Martyanov/ ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartyanovVV&count_private=true&show_icons=true&theme=buefy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyanovVV&layout=compact&theme=buefy" />
-</p>
-
-
 ## 📈 Languages Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartyanovVV&theme=tokyonight&bg_color=DEG,00000000,00000000,2e91e6&border_radius=5,c%23&layout=donut)
