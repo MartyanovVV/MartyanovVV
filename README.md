@@ -17,7 +17,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MartyanovVV&theme=tokyonight&bg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartyanovVV&theme=tokyonight&bg)
-
 [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartyanovVV&count_private=true&show_icons=true&theme=buefy)](https://github.com/egorlemeilleur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartyanovVV&layout=compact&theme=buefy)](https://github.com/egorlemeilleur)
