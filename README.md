@@ -1,4 +1,4 @@
-### Hello everyone, my name is Viktor Martyanov. I am a student of MIPT.
+### Hello everyone, my name is Viktor Martyanov. I am a student of MIPT and PSU student in Applied Mathematics and Information Science.
 ### 📍 I'm from Perm, Russia
 
 
@@ -18,7 +18,9 @@ FrontEnd:
 ### @ViktorDiktorGandgubas ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ### https://leetcode.com/Martyanov/ ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyanovVV&layout=compact&theme=buefy" />
+</p>
 
 
 ## 📈 Languages Stats
