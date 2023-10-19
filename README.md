@@ -1,5 +1,4 @@
 ### Hello everyone, my name is Viktor Martyanov. I am a student of MIPT.
-### Currently working as C++ Junior developer
 ### 📍 I'm from Perm, Russia
 
 
